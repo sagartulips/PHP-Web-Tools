@@ -45,8 +45,7 @@ These tools provide **direct database access and file operations**, so:
 
 ## 📄 License
 
-This project is released for **personal and development use**.  
-Use at your own risk.
-
----
-
+This project is released for **general purpose and development use**.  
+It is provided *“as is”* without any warranty or guarantee of fitness for a particular purpose.  
+The authors and contributors shall not be held liable for any damage, data loss, or issues arising from its use.  
+Please exercise caution when deploying in production environments.
