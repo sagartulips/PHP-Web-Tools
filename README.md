@@ -28,9 +28,13 @@ Can also be used on non-WordPress databases with similar structure.
 
 ## ⚙️ Usage
 
-1. Upload the desired PHP files to your server (e.g., inside a protected admin directory).  
+1. Upload the desired PHP files to your server (e.g., inside a protected admin directory or project root).  
 2. Access them via your browser (e.g., `https://example.com/db.php`).  
 3. Use each tool as intended — ensure proper security and access control.
+
+> **Note:**  
+> These tools can be placed in the **root directory** of your project or in **any desired location** on your server, depending on your setup.  
+> Just make sure they have access to the required files or database connections.
 
 ---
 
